@@ -45,3 +45,16 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+.launches/TivaLCD.launch
+*.launch
+Debug/ccsObjs.opt
+*.obj
+Debug/LIB/stepper.pp
+*.mk
+Debug/main.pp
+Debug/makefile
+*.map
+Debug/TivaLCD_linkInfo.xml
+Debug/TivaStepper.out
+Debug/TivaStepper_linkInfo.xml
+*.pp
